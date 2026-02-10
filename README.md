@@ -12,7 +12,7 @@ If you like my work please feel free to
 
 ## Live Demo
 
-**[https://nuxtship.netlify.app/](https://nuxtship.netlify.app/)**
+**[https://nuxtship.pages.dev/](https://nuxtship.pages.dev/)**
 
 ## Built with Nuxt 3 Minimal Starter
 
