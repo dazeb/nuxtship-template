@@ -6,9 +6,9 @@ This Free Template is sponsored by [Gr33nW33n](https://github.com/Gr33nW33n)
 
 If you like my work please feel free to
 
-<a href='https://ko-fi.com/S6S61UF5VE' target='_blank'><img height='36' style='border:0px;height:36px;padding:10px' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/S6S61UF5VE' target='_blank'><img height='36' style='border:0px;height:36px;padding:12px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <a href="https://www.paypal.com/paypalme/jakobaichmayr" target="_blank">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="56" />
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" height="60" />
 </a>
 
 ## Live Demo
