@@ -2,7 +2,7 @@
 
 Nuxtship is a free starter nuxt website template for saas, startups, marketing websites & landing pages. Built with Nuxt & TailwindCSS.
 
-This Free Template is sponsored by [Gr33nW33n](https://github.com/Gr33nW33n)
+This Free Template is sponsored by [jakob-aichmayr.pages.dev](https://jakob-aichmayr.pages.dev/)
 
 If you like my work please feel free to
 
